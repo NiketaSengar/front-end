@@ -22,7 +22,8 @@ Welcome to the **Calculator project**! This repository contains a simple web-bas
 - **Subtraction**: Subtract one number from another.
 - **Multiplication**: Multiply two or more numbers
 - **Division**: Divide one number by another.
-- **Clea**r: Clear the calculator's display and reset the current calculation.
+- **Clear**: Clear the calculator's display and reset the current calculation.
+- **power**: calculates the number raised to the power 2
 - **Delete**:deletes a digit
 - **basic trignometric funtions**: you can calculate the value of sin,cos and tan
 - **logarithmic functions (log), and the constant 'e'**
