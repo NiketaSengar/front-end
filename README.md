@@ -30,3 +30,19 @@ Welcome to the **Calculator project**! This repository contains a simple web-bas
 - **Keyboard Support**: The calculator also works with keyboard input for both numbers and operators.
 
 - ![calci](https://github.com/NiketaSengar/front-end/assets/116871243/c7a79dbe-afd0-40a8-b161-0faf251966a1)
+
+
+# Analog Clock Using HTML,JS,CSS
+
+
+**Analog Working Clock** using HTML, JS, and CSS
+This project demonstrates how to create a functional analog clock using HTML, JavaScript, and CSS. The clock displays the current time with rotating hour, minute, and second hands.
+
+## How It Works
+The analog clock is created using the following components:
+
+**HTML:** The basic structure of the clock is defined using HTML. It includes a container for the clock face and elements for the hour, minute, and second hands.
+
+**CSS:** Cascading Style Sheets (CSS) is used to style the clock components. The clock face is styled, and the hands are designed as lines that rotate to indicate the time.
+
+**JavaScript:** JavaScript is responsible for calculating the current time and updating the rotation of the clock hands accordingly. The setInterval function is used to update the time and hand rotations at regular intervals.
