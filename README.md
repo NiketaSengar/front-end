@@ -46,3 +46,5 @@ The analog clock is created using the following components:
 **CSS:** Cascading Style Sheets (CSS) is used to style the clock components. The clock face is styled, and the hands are designed as lines that rotate to indicate the time.
 
 **JavaScript:** JavaScript is responsible for calculating the current time and updating the rotation of the clock hands accordingly. The setInterval function is used to update the time and hand rotations at regular intervals.
+
+![clock_img](https://github.com/NiketaSengar/front-end/assets/116871243/35a8cd74-41ac-4127-bae9-c9e08e81c780)
