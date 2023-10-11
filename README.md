@@ -48,3 +48,32 @@ The analog clock is created using the following components:
 **JavaScript:** JavaScript is responsible for calculating the current time and updating the rotation of the clock hands accordingly. The setInterval function is used to update the time and hand rotations at regular intervals.
 
 ![clock_img](https://github.com/NiketaSengar/front-end/assets/116871243/35a8cd74-41ac-4127-bae9-c9e08e81c780)
+
+
+
+# Pizza Website
+This is a simple pizza website created using HTML, CSS, and JavaScript. The website is designed to be responsive and can adapt to various screen sizes.
+![Web capture_11-10-2023_16624_127 0 0 1](https://github.com/NiketaSengar/front-end/assets/116871243/008df3c9-2bc2-417c-9090-c26dfdf598aa)
+
+
+## Features
+Responsive design for three different screen sizes.
+Interactive pizza menu with images and descriptions.
+Contact information and location details.
+
+## Screenshots
+Here are some screenshots of the website at different screen sizes:
+
+### 768px
+![127 0 0 1_5500_food%20webiste_pizza html](https://github.com/NiketaSengar/front-end/assets/116871243/8b5f52e5-221c-4f1f-bcbb-fed209e6d72f)
+
+
+### 1024px
+![127 0 0 1_5500_food%20webiste_pizza html (1)](https://github.com/NiketaSengar/front-end/assets/116871243/a74d87c6-4295-4ecd-bb69-f5d6e48016aa)
+
+
+### 1280px
+ ![127 0 0 1_5500_food%20webiste_pizza html (2)](https://github.com/NiketaSengar/front-end/assets/116871243/bc5aece8-19cb-432d-846f-778641cf84ad)
+
+
+
